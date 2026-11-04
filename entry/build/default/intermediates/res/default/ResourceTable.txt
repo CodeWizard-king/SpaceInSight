@@ -1,0 +1,10 @@
+string ability_desc 0x01000007
+string app_name 0x01000000
+string module_desc 0x01000002
+color icon_bg 0x01000005
+color start_window_background 0x01000003
+media app_icon 0x01000001
+media icon_fg 0x01000006
+media room_design 0x01000008
+media room_scan 0x01000009
+profile main_pages 0x01000004
